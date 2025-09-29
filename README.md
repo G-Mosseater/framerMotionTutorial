@@ -1,9 +1,9 @@
-# React + Vite
+# Framer Motion Tutorial
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Scaling and animating buttons on hover
+- Animating elements on scroll (images, text, sections)
+- Color animations
+- Conditional animations for appearing and disappearing elements
+- Staggered list animations
+- Smooth modal and dialog transitions
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# framerMotionTutorial
